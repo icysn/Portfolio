@@ -1,3 +1,3 @@
-# icysn.github.io
+Shantanu K Nanda
 
-Hi, I am Shantanu K Nanda. 
+Hi, this is my portfolio page.
